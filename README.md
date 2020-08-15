@@ -1,2 +1,2 @@
-# CAT_V_DOG
-The following is an attempt to learn CNN using a self built CNN model. The final .ipynb notebook is uploaded here. The model achieved 96.8% accuracy in testing set.
+# CATS_V_DOGS
+This project shows the training of the famous Cats-versus-Dogs model from Kaggle, implemented using TensorFlow and Keras. I tried applying and configuring the model using a variety of CNNs and fully connected layers, to create a novel network, to maximise accuracy and minimise generalisation error. The final notebook uploaded here achieved a testing accuracy of 96.8%. 
